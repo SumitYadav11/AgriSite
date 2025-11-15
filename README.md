@@ -57,5 +57,6 @@ Git
 
 Step-by-Step Setup
 Clone the Repository
+
 git clone https://github.com/yourusername/agrisite-land-insights.git
 cd agrisite-land-insights
